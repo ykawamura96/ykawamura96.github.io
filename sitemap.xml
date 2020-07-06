@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ykawamura96.github.io/projects/robocon/</loc>
+  </url>
+  
+  <url>
     <loc>https://ykawamura96.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ykawamura96.github.io/</loc>
+    <loc>https://ykawamura96.github.io/projects/</loc>
   </url>
   
   <url>
     <loc>https://ykawamura96.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ykawamura96.github.io/</loc>
   </url>
   
 </urlset>

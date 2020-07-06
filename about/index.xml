@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>https://ykawamura96.github.io/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 14:39:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://ykawamura96.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ykawamura96.github.io/about/about/</link>
+      <pubDate>Fri, 03 Jul 2020 14:39:06 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/about/about/</guid>
+      <description>I enjoy robotics ! I am researching on humanoid robot at JSK Robotics Laboratry.
+Education  Currentry researching as master student in Graduate School of Information Science and Technology, University of Tokyo(04/2020-) B.S.M.E, University of Tokyo(04/2016 ~)  Department of Mechano Infomatics, Faculty of Engineering (04/2018 ~ 03/2020) Faculty of Liberal Arts(04/2016 ~ 03/2018)   Azabu High School (~ 03/2016)  International Exchage Program, Y.F.S, Ohio, US (09/2013 ~ 06/2014)    Publications   Y.</description>
+    </item>
+    
+  </channel>
+</rss>
