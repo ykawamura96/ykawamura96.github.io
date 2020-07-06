@@ -36,7 +36,7 @@ Education  Currentry researching as master student in Graduate School of Informa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ykawamura96.github.io/home/projects/</guid>
-      <description>Learning of Tool Force Adjustment Skills by a Life-sized Humanoid using Deep Reinforcement Learning and Active Teaching Request  We demonstrated the effectiveness of our proposed system through a hacksaw skill acquisition and a Japanese planer (Kanna) skill acquisition by a life-sized humanoid robot.</description>
+      <description>Learning of Tool Force Adjustment Skills by a Life-sized Humanoid using Deep Reinforcement Learning and Active Teaching Request  Abstract— The purpose of this study is to make life-sized humanoid robots acquire tool manipulation skills that require complicated force adjustment. The difficulty in acquisition of tool manipulation skills comes from the hardship in physical modeling. Recent research has revealed that deep reinforcement learning (DRL), a model-free approach, performs superior in such tasks.</description>
     </item>
     
   </channel>
