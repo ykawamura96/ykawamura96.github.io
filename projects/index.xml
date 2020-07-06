@@ -6,6 +6,7 @@
     <description>Recent content on Yoichiro&#39;s personal page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 14:42:42 +0900</lastBuildDate>
     
 	<atom:link href="https://ykawamura96.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +19,53 @@
       <guid>https://ykawamura96.github.io/projects/robocon/</guid>
       <description>Participated to NHK Student Robot Contest (NHK学生ロボコン) from U-Tokyo team, RoboTech.
 I was mostly resposible for mechanical design and entire team manegement. Not only I design the robot, but also I estabilish RoboTech fund to support my team from financial aspect.</description>
+    </item>
+    
+    <item>
+      <title>Flute Robot</title>
+      <link>https://ykawamura96.github.io/projects/highschool/</link>
+      <pubDate>Fri, 03 Jul 2020 12:13:55 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/projects/highschool/</guid>
+      <description>I created flute playing robot when I was an highschool student.
+The project including mechanical design, circuit board design, and software design were done all by myself.
+It was good memory of me to visited Akihabara(秋葉原) so often to buy some electric parts.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ykawamura96.github.io/projects/projects/</link>
+      <pubDate>Fri, 03 Jul 2020 14:42:42 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/projects/projects/</guid>
+      <description>Learning of Tool Force Adjustment Skills by a Life-sized Humanoid using Deep Reinforcement Learning and Active Teaching Request </description>
+    </item>
+    
+    <item>
+      <title>Arts</title>
+      <link>https://ykawamura96.github.io/projects/arts/</link>
+      <pubDate>Fri, 03 Jul 2020 12:38:44 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/projects/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origami</title>
+      <link>https://ykawamura96.github.io/projects/origami/</link>
+      <pubDate>Fri, 03 Jul 2020 12:22:01 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/projects/origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flyers</title>
+      <link>https://ykawamura96.github.io/projects/flyer/</link>
+      <pubDate>Wed, 03 Jun 2020 12:18:42 +0900</pubDate>
+      
+      <guid>https://ykawamura96.github.io/projects/flyer/</guid>
+      <description>I designed flyers for Robot Contest team and drama club.</description>
     </item>
     
   </channel>
